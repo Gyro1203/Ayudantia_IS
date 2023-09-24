@@ -4,7 +4,7 @@
   "description": "Este es un repo de ejemplo para la ayudantia",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "dev": "nodemon src/index.js"
   },
   "author": "Sebastian Vasquez",
   "license": "MIT",
